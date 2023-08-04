@@ -8,21 +8,21 @@
             "collectionId": "Swedish",
             "type": "Novella",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Novella/fb456208-c468-4ebc-b04d-1cf62cbf491d/fb456208-c468-4ebc-b04d-1cf62cbf491d_sv_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Swedish/fb456208-c468-4ebc-b04d-1cf62cbf491d_sw_Male.mp4"
         },
         {
             "id": "c20346d0-f33b-4cba-a68d-91b74907f6ba",
             "collectionId": "Swedish",
             "type": "Novella",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Novella/c20346d0-f33b-4cba-a68d-91b74907f6ba/c20346d0-f33b-4cba-a68d-91b74907f6ba_sv_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Swedish/c20346d0-f33b-4cba-a68d-91b74907f6ba_sw_Female.mp4"
         },
         {
             "id": "e049123a-b9ed-482e-8e6d-376b36c5d7a9",
             "collectionId": "Swedish",
             "type": "Novella",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Swedish/Swedish_Novella/e049123a-b9ed-482e-8e6d-376b36c5d7a9/e049123a-b9ed-482e-8e6d-376b36c5d7a9_sv_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Novella/Swedish/e049123a-b9ed-482e-8e6d-376b36c5d7a9_sw_Female.mp4"
         }
     ]
 }
